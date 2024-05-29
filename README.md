@@ -1,7 +1,3 @@
-# Salary-Data-Simple-Linear-Regression-
-Certainly! Here's a refined description for your GitHub repository's README without the code:
-
----
 
 # Salary Prediction Based on Job Experience
 
