@@ -3,8 +3,6 @@
 
 This repository contains a simple linear regression model to predict salaries based on years of job experience. The project includes data preprocessing, model training, and visualization of the results.
 
-# Project Structure
-
 # Data Preprocessing
 The dataset used is `salary_data.csv`, which contains information about years of experience and corresponding salaries. The data preprocessing steps include:
 - Importing necessary libraries: `numpy`, `pandas`, and `matplotlib`.
